@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ZAINEB CHIBANI\\duol\\rabbic\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ZAINEB CHIBANI\\.gradle\\caches\\transforms-2\\files-2.1\\b478a999c0f86964024311fceae65383\\core-1.7.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "1110",
+                        "endColumns": "203",
+                        "endOffsets": "1309"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ZAINEB CHIBANI\\.gradle\\caches\\transforms-2\\files-2.1\\62f241bbbfafea2ad490860605f6eed5\\jetified-media2-session-1.2.0\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,262,461,655,879",
+                        "endColumns": "206,198,193,223,230",
+                        "endOffsets": "257,456,650,874,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}

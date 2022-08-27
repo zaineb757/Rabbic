@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+tdtu/flutter/duolingo/BuildConfig.java
+ tdtu.flutter.duolingo.BuildConfig

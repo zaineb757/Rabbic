@@ -1,0 +1,4 @@
+yy/inc/flutter_custom_dialog/BuildConfig.java
+ yy.inc.flutter_custom_dialog.BuildConfig
+yy/inc/flutter_custom_dialog/FlutterCustomDialogPlugin.java
+ yy.inc.flutter_custom_dialog.FlutterCustomDialogPlugin
